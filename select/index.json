@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Lonely in Gorgeous -fourbeat Remix-",
+  "base_artist": "Tommy february6",
+  "createdAt": "2025-12-30T13:30:11.198764Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonely in Gorgeous",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_01_Lonely_in_Gorgeous_Tommy_february6.txt"
+    }
+  ]
+}
